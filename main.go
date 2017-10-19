@@ -6,6 +6,7 @@ import (
 	"os"
 
 	_ "github.com/ob-tech/openbazaar-cli/list"
+	_ "github.com/ob-tech/openbazaar-cli/shell"
 )
 
 func init() {
